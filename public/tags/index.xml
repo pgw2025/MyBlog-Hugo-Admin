@@ -38,7 +38,7 @@
 <item>
     <title>Shortcodes</title>
     <link>http://localhost:1313/tags/shortcodes/</link>
-    <pubDate>Wed, 04 Mar 2020 16:29:41 &#43;0800</pubDate>
+    <pubDate>Tue, 03 Mar 2020 12:29:41 &#43;0800</pubDate>
     <author>xxxx</author>
     <guid>http://localhost:1313/tags/shortcodes/</guid>
     <description><![CDATA[]]></description>
@@ -49,14 +49,6 @@
     <pubDate>Sun, 01 Dec 2019 21:57:40 &#43;0800</pubDate>
     <author>xxxx</author>
     <guid>http://localhost:1313/tags/html/</guid>
-    <description><![CDATA[]]></description>
-</item>
-<item>
-    <title>Emoji</title>
-    <link>http://localhost:1313/tags/emoji/</link>
-    <pubDate>Tue, 01 Oct 2019 17:55:28 &#43;0800</pubDate>
-    <author>xxxx</author>
-    <guid>http://localhost:1313/tags/emoji/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>
