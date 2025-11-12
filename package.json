@@ -1,0 +1,8 @@
+{
+  "name": "MyBlog",
+  "private": true,
+  "version": "1.0.0",
+  "engines": {
+    "hugo": "0.145.0"
+  }
+}
